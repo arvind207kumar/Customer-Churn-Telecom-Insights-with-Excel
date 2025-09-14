@@ -55,10 +55,15 @@ The dataset includes:
 
 ## 💡 Key Insights
 
-- **Month-to-month contracts** show significantly higher churn rates.
-- Customers using **electronic checks** are more likely to churn.
-- **Senior citizens** and **long-tenure customers** are less likely to leave.
-- High **monthly charges** correlate with increased churn, especially among short-tenure users.
+## 💡 Key Business Insights
+
+- Customers on **month-to-month contracts** exhibit the highest churn rates, highlighting the need for loyalty programs or longer-term engagement strategies.
+- Users who pay via **electronic checks** are more likely to churn, suggesting potential friction in the payment experience.
+- **Long-tenure customers** tend to remain loyal, making them ideal candidates for upselling and premium service offerings.
+- Elevated **monthly charges**, especially among **short-tenure users**, are strongly associated with churn—indicating a mismatch between perceived value and cost.
+- Surprisingly, **unlimited data plan users consuming less than 10 GB** show higher churn likelihood, possibly due to underutilization or misaligned plan benefits.
+- A significant portion of churn is driven by **competitor influence**, underscoring the importance of competitive benchmarking and customer satisfaction initiatives.
+
 
 ---
 
@@ -67,7 +72,7 @@ The dataset includes:
 - `Churn_Analysis_Excel_Dashboard.xlsx`: Final dashboard with slicers and charts
 - `Customer Pivots on Customer data.pdf`: Pivot-based analysis summary
 - `Churn Analysis on Customer Aggregated data.pdf`: Aggregated insights
-- `Churn Ana;ysis Dashboard.pdf`: Dashboard walkthrough
+- `Churn Analysis Dashboard.pdf`: Dashboard walkthrough
 
 ---
 
